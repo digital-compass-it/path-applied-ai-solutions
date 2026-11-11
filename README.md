@@ -55,6 +55,14 @@ Learn how to turn an idea into a working prototype ("Proof of Work") that you ca
 
 ---
 
+### ⚡ Optional Power-Up: Basic PowerShell (No Developer Background Needed)
+* **Is it required to start?** **No.** You can start with graphical tools and no-code workflows first.
+* **Why learn it anyway?** Because almost every modern company runs on Windows and Microsoft 365, knowing basic PowerShell commands sets you apart from 90% of entry-level applicants. Even better: with modern AI tools, you don't have to memorize syntax – you just need to understand enough to read, test, and safely run simple automation scripts.
+* **Free Official Resource:** 
+  * 🎓 **Microsoft Learn – Introduction to PowerShell** *(100% free, includes an interactive browser sandbox)*
+
+---
+
 ## 🛠️ Hands-On Portfolio: Build Your "Proof of Work"
 Instead of claiming "I know AI" on your CV, build **3 concrete problem-solving prototypes** and document them in a public GitHub repository:
 

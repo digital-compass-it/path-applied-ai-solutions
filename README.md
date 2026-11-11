@@ -44,9 +44,14 @@ Companies want AI that knows *their* internal documents and rules – not generi
   * 🎓 **Microsoft Learn – Create Copilots with Microsoft Copilot Studio** *(Free step-by-step learning path)*
 
 ### Phase 4: Rapid Prototyping / "Proof of Work" (Weeks 8–10)
-Learn how to turn an idea into a working prototype ("Proof of Work") that you can show to decision-makers or clients.
-* [ ] Use AI coding assistants (like GitHub Copilot or Claude/ChatGPT) to generate simple, functional mini-tools (e.g., a clean HTML/JS calculator, a CSV data cleaner, or a small internal dashboard) – focusing on **testing, debugging, and validating the result**.
-* [ ] Document your solution clearly: Problem Statement → Architecture Sketch → Limitations → Next Steps.
+Learn how to turn an idea into a working prototype ("Proof of Work") that you can show to decision-makers, clients, or hiring managers – without needing to write code from scratch.
+* [ ] Use AI coding assistants (like GitHub Copilot or Claude/ChatGPT) to generate simple, functional mini-tools (e.g., a clean HTML/JS calculator, a CSV data cleaner, or a small internal dashboard).
+* [ ] Focus on **specifying requirements, testing, debugging, and validating the result** rather than memorizing syntax.
+* [ ] Document your solution clearly: Problem Statement → How It Works → Limitations → Next Steps.
+* **Free Official Resources:** 
+  * 🎓 **Microsoft Learn – Introduction to GitHub Copilot** *(100% free, no login required to read; shows how to turn plain English instructions into working code)*
+  * 🎓 **GitHub Skills – Copilot & Markdown Courses** *(Free, interactive, hands-on repositories directly on GitHub where you learn by doing)*
+  * 🎓 **Microsoft Learn – Power Apps / Low-Code Prototyping Fundamentals (PL-900 Path)** *(100% free; learn how to click together simple internal business apps and forms without traditional coding)*
 
 ---
 
